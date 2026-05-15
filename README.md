@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sana-maulavi-014ba4376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana.maulavi24@mmit.edu.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](sana-maulavi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana.maulavi24@mmit.edu.in) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sana02m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sana02m&theme=dark&hide_border=false)<br/>
